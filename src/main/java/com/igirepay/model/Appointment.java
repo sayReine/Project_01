@@ -1,4 +1,4 @@
-package com.igirepay;
+package com.igirepay.model;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
